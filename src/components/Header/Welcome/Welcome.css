@@ -1,0 +1,13 @@
+.welcome {
+    padding: 20%;
+    text-align: center;
+    color: #ffffff;
+}
+
+.default-link a:link,
+a:visited,
+a:hover,
+a:active {
+    text-decoration: none;
+    color: black;
+}
