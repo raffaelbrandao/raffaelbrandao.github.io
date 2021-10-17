@@ -1,14 +1,19 @@
 import React from 'react';
 import './Welcome.css';
+import { useTranslation } from 'react-i18next';
 import GithubIcon from ".../../../src/assets/images/icons/github.svg";
 import LinkedInIcon from ".../../../src/assets/images/icons/linkedin.svg";
 
 function Welcome() {
+    const { t } = useTranslation();
+
     return (
+
         <div className="welcome">
-            <h1>Oi, eu sou Rafael Brandão</h1>
-            <h2>Engenheiro de software</h2>
-            <nav class="social-media">
+            <h1>{t('welcome.heading')}</h1>
+            <h2>{t('welcome.role')}</h2>
+
+            <nav className="social-media">
                 <ul>
                     <li>
                         <a href="https://github.com/raffaelbrandao">

@@ -1,0 +1,17 @@
+.language-menu {
+    text-align: right;
+}
+
+.language-menu img {
+    padding: 5px;
+    width: 24px;
+    height: 24px;
+}
+
+.language-menu ul {
+    margin: 0;
+ }
+
+.language-menu li {
+    display: inline-block;
+}

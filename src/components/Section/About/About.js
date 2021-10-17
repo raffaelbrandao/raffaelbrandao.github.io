@@ -1,12 +1,15 @@
 import React from 'react';
 import './About.css';
+import { useTranslation } from 'react-i18next';
 
 function About() {
+    const { t } = useTranslation();
+
     return (
         <section className="about content-section">
             <div className="container">
-                <h2>Sobre</h2>
-                <p>Eu sou um engenheiro de software, vivo em Salvador - Bahia, Brasil. Venho desenvolvendo aplicações em Java com times ágeis há mais de 15 anos na área pública e privada.</p>
+                <h2>{t('about.heading')}</h2>
+                <p>{t('about.about')}</p>
             </div>
         </section>
     );
