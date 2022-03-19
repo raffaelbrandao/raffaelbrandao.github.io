@@ -1,10 +1,14 @@
 import React from 'react';
 import './Section.css';
 import About from './About/About';
+import Blog from './Blog/Blog';
 
 function Section() {
     return (
-        <About />
+        <div>
+            <About />
+            <Blog />
+        </div>
     );
 }
 

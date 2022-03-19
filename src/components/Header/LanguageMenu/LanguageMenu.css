@@ -14,4 +14,10 @@
 
 .language-menu li {
     display: inline-block;
+    
+}
+
+.language-menu button {
+    all: unset;
+    cursor: pointer;
 }

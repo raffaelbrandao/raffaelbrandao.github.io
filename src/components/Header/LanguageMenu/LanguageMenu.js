@@ -9,11 +9,11 @@ function LanguageMenu() {
         <nav className="language-menu">
             <ul>
                 <li>
-                    <span onClick={() => i18n.changeLanguage("pt_BR")}>Português</span>
+                    <button onClick={() => i18n.changeLanguage("pt_BR")}>Português</button>
                 </li>
                 <span> | </span>
                 <li>
-                    <span onClick={() => i18n.changeLanguage("en_US")}>English</span>
+                    <button onClick={() => i18n.changeLanguage("en_US")}>English</button>
                 </li>
             </ul>
         </nav>
