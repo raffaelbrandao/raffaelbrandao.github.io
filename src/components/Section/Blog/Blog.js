@@ -12,6 +12,7 @@ function Blog() {
                 <nav>
                     <ul>
                         <li><a href="https://blog.raffaelbrandao.com/posts/como_organizar_constantes_em_seu_projeto.html">Como organizar constantes em seu projeto</a></li>
+                        <li><a href="https://blog.raffaelbrandao.com/posts/eventos_com_spring.html">Eventos com Spring</a></li>
                     </ul>
                 </nav>
             </div>
