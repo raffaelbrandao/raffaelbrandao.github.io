@@ -1,8 +1,8 @@
 import React from 'react';
 import './Welcome.css';
 import { useTranslation } from 'react-i18next';
-import GithubIcon from ".../../../src/assets/images/icons/github.svg";
-import LinkedInIcon from ".../../../src/assets/images/icons/linkedin.svg";
+import GithubIcon from "../../../assets/images/icons/github.svg";
+import LinkedInIcon from "../../../assets/images/icons/linkedin.svg";
 
 function Welcome() {
     const { t } = useTranslation();
