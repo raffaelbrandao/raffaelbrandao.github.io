@@ -10,6 +10,7 @@ i18n
             pt_BR: {
                 translations: {
                     welcome: {
+                        "profile": "Foto de perfil",
                         "heading": "Oi, eu sou Rafael Brandão",
                         "role": "Engenheiro de software"
                     },
@@ -28,6 +29,7 @@ i18n
             en_US: {
                 translations: {
                     welcome: {
+                        "profile": "Profile picture",
                         "heading": "Hi, I'm Rafael Brandão",
                         "role": "Software engineer"
                     },

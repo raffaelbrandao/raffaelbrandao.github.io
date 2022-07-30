@@ -1,6 +1,6 @@
 {
   "name": "personal-website",
-  "version": "2.1.0",
+  "version": "2.1.1",
   "private": true,
   "homepage": "./",
   "dependencies": {
@@ -38,5 +38,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "engines": {
+    "node": "16.x",
+    "npm": "8.x"
   }
 }
