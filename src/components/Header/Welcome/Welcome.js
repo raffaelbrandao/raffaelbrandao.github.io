@@ -11,24 +11,24 @@ function Welcome() {
     return (
 
         <div className="welcome">
-            <img src="https://s.gravatar.com/avatar/9139cc1361f4451866b1b78be8206285?s=150" alt={t('welcome.profile')} className="avatar"></img>
+            <img src="https://s.gravatar.com/avatar/9139cc1361f4451866b1b78be8206285?s=150" alt={t('welcome.profile')} className="avatar" title={t('welcome.profile')}></img>
             <h1>{t('welcome.heading')}</h1>
             <h2>{t('welcome.role')}</h2>
 
             <nav className="social-media">
                 <ul>
                     <li>
-                        <a href="https://www.linkedin.com/in/raffaelbrandao" target="_blank" rel="noreferrer">
+                        <a href="https://www.linkedin.com/in/raffaelbrandao" target="_blank" rel="noopener noreferrer" title="LinkedIn">
                             <img src={LinkedInIcon} alt="LinkedIn" />
                         </a>
                     </li>
                     <li>
-                        <a href="https://github.com/raffaelbrandao" target="_blank" rel="noreferrer">
+                        <a href="https://github.com/raffaelbrandao" target="_blank" rel="noopener noreferrer" title="Github">
                             <img src={GithubIcon} alt="Github" />
                         </a>
                     </li>
                     <li>
-                        <a href="https://www.youtube.com/raffaelbrandao" target="_blank" rel="noreferrer">
+                        <a href="https://www.youtube.com/raffaelbrandao" target="_blank" rel="noopener noreferrer" title="YouTube">
                             <img src={YouTubeIcon} alt="YouTube" />
                         </a>
                     </li>

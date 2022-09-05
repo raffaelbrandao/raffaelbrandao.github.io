@@ -9,6 +9,9 @@ i18n
         resources: {
             pt_BR: {
                 translations: {
+                    app: {
+                        "goToTop": "Ir para o topo"
+                    },
                     welcome: {
                         "profile": "Foto de perfil",
                         "heading": "Oi, eu sou Rafael Brandão",
@@ -28,6 +31,9 @@ i18n
             },
             en_US: {
                 translations: {
+                    app: {
+                        "goToTop": "Go to top"
+                    },
                     welcome: {
                         "profile": "Profile picture",
                         "heading": "Hi, I'm Rafael Brandão",
