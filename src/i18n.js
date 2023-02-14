@@ -25,7 +25,7 @@ i18n
                         "heading": "Blog",
                     },
                     footer: {
-                        "copynote": "2021 Rafael Brandão. Todos os direitos reservados."
+                        "copynote": "2023 Rafael Brandão. Todos os direitos reservados."
                     }
                 }
             },
@@ -47,7 +47,7 @@ i18n
                         "heading": "Blog",
                     },
                     footer: {
-                        "copynote": "2021 Rafael Brandão. All rights reserved."
+                        "copynote": "2023 Rafael Brandão. All rights reserved."
                     }
                 }
             }

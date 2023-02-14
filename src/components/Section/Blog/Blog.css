@@ -8,3 +8,7 @@
 .content-section.blog ul{
     list-style-type: none;
 }
+
+.content-section.blog a:link a:visited a:hover a:active{
+    color: black;
+}

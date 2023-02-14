@@ -11,8 +11,9 @@ function Blog() {
                 <h2>{t('blog.heading')}</h2>
                 <nav>
                     <ul>
-                        <li><a href="https://blog.raffaelbrandao.com/posts/como_organizar_constantes_em_seu_projeto.html">Como organizar constantes em seu projeto</a></li>
+                        <li><a href="https://blog.raffaelbrandao.com/posts/o_que_e_e_como_usar_o_uuid">O que é e como usar o UUID</a></li>
                         <li><a href="https://blog.raffaelbrandao.com/posts/eventos_com_spring.html">Eventos com Spring</a></li>
+                        <li><a href="https://blog.raffaelbrandao.com/posts/como_organizar_constantes_em_seu_projeto.html">Como organizar constantes em seu projeto</a></li>
                     </ul>
                 </nav>
             </div>
