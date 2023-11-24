@@ -10,7 +10,7 @@ function LanguageMenu() {
     ];
     return (
         <div className="language-menu">
-            <select onChange={(event) => i18n.changeLanguage(event.target.value)}>
+            <select aria-label="change language" onChange={(event) => i18n.changeLanguage(event.target.value)}>
                 {options.map(option => (<option key={option.value} value={option.value}>{option.text}</option>))}
             </select>
         </div>
