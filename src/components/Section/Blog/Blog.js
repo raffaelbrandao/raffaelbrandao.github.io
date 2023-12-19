@@ -11,9 +11,9 @@ function Blog() {
                 <h2>{t('blog.heading')}</h2>
                 <nav>
                     <ul>
-                        <li><a href="https://blog.raffaelbrandao.com/spring/iniciando-projeto-spring-boot-no-spring-initializr/">Iniciando um novo projeto Spring Boot no Spring initializr</a></li>
-                        <li><a href="https://blog.raffaelbrandao.com/aws/amazon-ecs/">Amazon ECS</a></li>
-                        <li><a href="https://blog.raffaelbrandao.com/aws/amazon-sns/">Amazon SNS</a></li>
+                        <li><a href="https://blog.raffaelbrandao.com/iniciando-projeto-spring-boot-no-spring-initializr/">Iniciando um novo projeto Spring Boot no Spring initializr</a></li>
+                        <li><a href="https://blog.raffaelbrandao.com/amazon-ecs/">Amazon ECS</a></li>
+                        <li><a href="https://blog.raffaelbrandao.com/amazon-sns/">Amazon SNS</a></li>
                     </ul>
                 </nav>
             </div>
