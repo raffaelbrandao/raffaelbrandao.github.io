@@ -12,8 +12,8 @@ function Blog() {
                 <nav>
                     <ul>
                         <li><a href="https://blog.raffaelbrandao.com/iniciando-projeto-spring-boot-no-spring-initializr/">Iniciando um novo projeto Spring Boot no Spring initializr</a></li>
+                        <li><a href="https://blog.raffaelbrandao.com/como-usar-perfis-no-spring-boot/">Como usar perfis no Spring Boot?</a></li>
                         <li><a href="https://blog.raffaelbrandao.com/amazon-ecs/">Amazon ECS</a></li>
-                        <li><a href="https://blog.raffaelbrandao.com/amazon-sns/">Amazon SNS</a></li>
                     </ul>
                 </nav>
             </div>
